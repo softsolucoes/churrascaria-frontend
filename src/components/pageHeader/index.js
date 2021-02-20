@@ -8,7 +8,7 @@ export default function PageHeader(){
         <>
 
                 <LinkSelect>
-                <Link to="/menu">
+                <Link to="/">
                     <button  className="link" >
                         <VscListSelection size="2em" color="black"></VscListSelection>
                     </button>
