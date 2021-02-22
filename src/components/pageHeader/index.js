@@ -13,7 +13,7 @@ export default function PageHeader(){
                         <VscListSelection size="2em" color="black"></VscListSelection>
                     </button>
                 </Link>
-                <p>Espeto Gaucho</p>
+                <p>Restaurante</p>
                 </LinkSelect>
 
         </>

@@ -13,8 +13,10 @@ export const Container = styled.div`
         flex-direction: row;
 
         h1{
+            margin-top: 5vh;
+            margin-bottom: 5vh;
             margin-right: 5vw;
-            color: #FF4500;
+            color: #EF233C;
         }
         
     }

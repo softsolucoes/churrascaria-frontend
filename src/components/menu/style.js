@@ -9,7 +9,7 @@ export const Container = styled.div`
     .select{
         width: 20vw;
         height: 100vh;
-        background-color: #FF4500;
+        background-color: #EF233C;
         padding-top: 10vh;
         padding-left: 2vw;
         float: left;

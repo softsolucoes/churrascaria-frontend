@@ -19,7 +19,7 @@ const Container = styled.div`
         border-radius: 5px;
         padding-top: 1vh;
         padding-left: 2.5vw;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: #EF233C;
         display: flex;
         flex-direction: row;
 
@@ -37,9 +37,10 @@ const Container = styled.div`
                 display: flex;
                 flex-direction: column;
                 justify-content: space-between;
+                color: white;
                 h3{
                     font-size: 14px;
-                    color: #FF4500;
+                    color: white;
 
                 }
                 p{
@@ -70,6 +71,39 @@ const Container = styled.div`
         
 
     }
+    .modal {
+  font-size: 12px;
+}
+.modal > .header {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+.modal > .content {
+  width: 100%;
+  padding: 10px 5px;
+}
+.modal > .actions {
+  width: 100%;
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+}
+.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  display: block;
+  padding: 2px 5px;
+  line-height: 20px;
+  right: -10px;
+  top: -10px;
+  font-size: 24px;
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #cfcece;
+}
 
 
 `;

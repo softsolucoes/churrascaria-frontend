@@ -26,7 +26,7 @@ export const Content = styled.div`
             text-align: center;
             font-size: 36px;
             font-weight: bold;
-            color: #FF4500;
+            color: #EF233C;
             margin-bottom: 10vh;
 
         }
@@ -85,7 +85,7 @@ export const Content = styled.div`
                 width: 10vw;
                 margin-left: 17.5vw;
                 height: 7vh;
-                background-color: #FF4500;
+                background-color: #EF233C;
                 border: none;
                 color: white;
                 border-radius: 10px;
